@@ -10,3 +10,5 @@ A **simple** but **beautiful** version of an _image slider_ with animation for a
 As most of sliders it's based on adding and removing style class _"active"_ to an image but it uses animation with transition _ease-in-out_ so it looks more pretty.
 
 It can be used in a marketplaces or ecommerce for example.
+
+<img src="https://i.ibb.co/cNx14xD/bandicam-2021-06-15-18-15-29-030-online-video-cutter-com.gif" width="80%">
